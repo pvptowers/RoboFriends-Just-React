@@ -1,18 +1,12 @@
 # About This Project
 
-This project is build using React. It uses [Robohas](https://robohash.org/) to generate unique robot images and json placeholder as the mock backend API.
+This project is build using React. It uses [Robohash](https://robohash.org/) to generate unique robot images and json placeholder as the mock backend API.
 
-The project was completes as part of the [Complete Junior to Senior Web Developer Roadcamp Course](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/learn/) on Udemy.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project was completed as part of the [Complete Junior to Senior Web Developer Roadcamp Course](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/learn/) on Udemy.
 
 ## Run The Application
 
-The application was initiated with Create React App. You can utilise the following scripts.
-
-### Available Scripts
-
-In the project directory, you can run:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The following scripts are available:
 
 ### `npm start`
 
